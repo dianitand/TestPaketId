@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDemo - Negative</name>
+   <tag></tag>
+   <comment>Input All Field Blank
+Input Only Company Name
+Input Company &amp; Full Name
+Input Company, Name &amp; Phone Number
+Input Invalid Email Format</comment>
+   <testCaseGuid>ee82a1a3-e5b3-421e-8bdb-e130fb413a34</testCaseGuid>
+</TestCaseEntity>
